@@ -12,7 +12,7 @@ Skills: Django / ML / SQL / JS / HTML / CSS / IoT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKULLDRAGON099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aastik-yadav-cauldron/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKULLDRAGON099)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandnaM)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKULLDRAGON099&show_icons=true)  
 
