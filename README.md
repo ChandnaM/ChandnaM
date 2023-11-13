@@ -2,7 +2,7 @@
 
 I'm Mitakshi Chandna, Junior at Thapar University in ELectrical and Computers major. Currently learning Django and Machine Learning.
 
-Skills: SQL / MONGO / NODE / JS / HTML / CSS / IoT 
+Skills: REACT / EXPRESS / NODE/ MONGODB / SQL / JS / HTML / CSS / IoT 
 
 - 🔭 I’m currently working on backend development using MongoDB
 
